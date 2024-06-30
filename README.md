@@ -1,6 +1,6 @@
-# React To-Do Application
+# React ToDo Website
 
-This is a simple todo list application built with React and Vite. It allows users to add, edit, delete, and mark todos as completed.
+This is a simple todo list website built with React and Vite. It allows users to add, edit, delete, and mark todos as completed.
 
 ## Installation
 
@@ -84,6 +84,10 @@ React-To-Do-Application/
 
 ## Screenshots
 
+![Screenshot 2024-06-30 185232](https://github.com/BhanuPrakash43/React-ToDo-Website/assets/118364415/17cb0f96-7382-4060-866d-e7a0d3efdf56)
+![Screenshot 2024-06-30 185255](https://github.com/BhanuPrakash43/React-ToDo-Website/assets/118364415/077bf6d0-191d-4c08-b255-392f48b2e43c)
+![Screenshot 2024-06-30 185314](https://github.com/BhanuPrakash43/React-ToDo-Website/assets/118364415/2e591693-9843-435d-a042-e2cafff45ff9)
+![Screenshot 2024-06-30 185336](https://github.com/BhanuPrakash43/React-ToDo-Website/assets/118364415/38816c01-565b-49a2-998d-66c8619a202c)
 
 ## Contributing
 
