@@ -8,11 +8,11 @@ This is a simple todo list application built with React and Vite. It allows user
 
     git clone https://github.com/BhanuPrakash43/React-ToDo-Website.git
 
-####2. Navigate to the project directory:
+###2. Navigate to the project directory:
 
     cd React-ToDo-Website
 
-####3. Install dependencies using npm or yarn:
+###3. Install dependencies using npm or yarn:
 
     npm install
     or
@@ -20,17 +20,17 @@ This is a simple todo list application built with React and Vite. It allows user
 
 ## Usage
 
-####1. Start the development server:
+###1. Start the development server:
 
     npm run dev
     or
     yarn dev
 
-####2. Open your web browser and visit http://localhost:5173 to view the application.
+###2. Open your web browser and visit http://localhost:5173 to view the application.
 
 ## Build for Production
 
-####To build the project for production, run:
+###To build the project for production, run:
 
     npm run build
     or
