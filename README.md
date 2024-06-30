@@ -4,7 +4,7 @@ This is a simple todo list application built with React and Vite. It allows user
 
 ## Installation
 
-1. Clone the repository to your local machine:
+#1. Clone the repository to your local machine:
 
     git clone https://github.com/BhanuPrakash43/React-ToDo-Website.git
 
