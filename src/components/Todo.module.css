@@ -1,0 +1,98 @@
+.todo {
+  border: 2px solid #cdcdcd;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+  padding: 0.5rem 1rem;
+  height: 50px;
+  transition: all 0.3s ease-in-out;
+}
+
+.buttonContainer {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.button {
+  background-color: #efefef;
+  color: #232323;
+  border: none;
+  border-radius: 5px;
+  padding: 0.2rem 0.5rem;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.button:hover {
+  background-color: #ddd;
+  color: #000;
+}
+
+.completed {
+  text-decoration: line-through;
+  opacity: 0.7;
+}
+
+.todoCheckbox {
+  width: 20px;
+  height: 20px;
+  accent-color: #646cff;
+}
+
+.btn {
+  width: 20px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  font-size: 1.3rem;
+  transition: color 0.3s;
+}
+
+.btn:hover {
+  color: #535bf2;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .todo {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 1rem;
+    height: auto;
+  }
+
+  .buttonContainer {
+    margin-top: 0.5rem;
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .btn,
+  .todoCheckbox {
+    width: 30px;
+    height: 30px;
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .todo {
+    padding: 1rem 0.5rem;
+  }
+
+  .btn,
+  .todoCheckbox {
+    width: 25px;
+    height: 25px;
+    font-size: 1.3rem;
+  }
+
+  .buttonContainer {
+    gap: 0.5rem;
+  }
+}

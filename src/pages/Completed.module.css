@@ -1,0 +1,22 @@
+.comp {
+  display: inline-block;
+  position: relative;
+}
+
+.completed {
+  max-width: 1400px;
+  width: 70%;
+  margin: auto;
+  display: absolute;
+  position: relative;
+  padding: 2px 30px 10px 30px;
+  background-color: #124559;
+  border-radius: 10px;
+}
+
+.compTitle {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+}

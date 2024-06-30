@@ -1,0 +1,20 @@
+.home {
+  max-width: 1400px;
+  width: 70%;
+  margin: auto;
+  position: relative;
+  background-color: #ff7f11;
+  padding: 5px 35px 25px 35px;
+  border-radius: 10px;
+}
+
+.heading {
+  text-align: center;
+}
+.clearAllTodosBtn {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #efefef;
+  color: #232323;
+}
