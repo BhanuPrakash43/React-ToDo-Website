@@ -20,7 +20,7 @@ function App() {
   const [todos, setTodos] = useState([
     {
       id: "1",
-      title: "Complete QuadB Tech React assignment",
+      title: "Complete React assignment",
       completed: false,
     },
     {
